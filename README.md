@@ -109,8 +109,3 @@ Developed by [Nishita Namdeo](https://github.com/Nishita1010)
 If you like this project, consider giving it a ⭐ on GitHub!
 
 ```
-
----
-
-Let me know if you want me to tailor this with **exact model architecture**, **dataset used**, or even create a **requirements.txt** file for you.
-```
